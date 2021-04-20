@@ -1,0 +1,371 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{ega-I}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0a30598b0fb52d15a9ed0914eae20176}{%
+           family={Dieudonné},
+           familyi={D\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fb0e3184fdd2fcd28fa74ca67d7cdcc1}{%
+           family={Grothendieck},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {french}%
+      }
+      \list{publisher}{1}{%
+        {Publications Mathématiques de l'IHÉS}%
+      }
+      \strng{namehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{fullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{bibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorbibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authornamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorfullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \field{extraname}{1}
+      \field{labelalpha}{EGA I}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{4}
+      \field{shorthand}{EGA I}
+      \field{title}{Éléments de géométrie algébrique: I. Le langage des schémas}
+      \field{year}{1960}
+      \true{nocite}
+      \field{pages}{5\bibrangedash 228}
+      \range{pages}{224}
+    \endentry
+    \entry{ega-II}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0a30598b0fb52d15a9ed0914eae20176}{%
+           family={Dieudonné},
+           familyi={D\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fb0e3184fdd2fcd28fa74ca67d7cdcc1}{%
+           family={Grothendieck},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {french}%
+      }
+      \list{publisher}{1}{%
+        {Publications Mathématiques de l'IHÉS}%
+      }
+      \strng{namehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{fullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{bibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorbibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authornamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorfullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \field{extraname}{2}
+      \field{labelalpha}{EGA II}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{8}
+      \field{shorthand}{EGA II}
+      \field{title}{Éléments de géométrie algébrique: II. Étude globale élémantaire de quelques classes de morphismes}
+      \field{year}{1961}
+      \true{nocite}
+      \field{pages}{5\bibrangedash 222}
+      \range{pages}{218}
+    \endentry
+    \entry{ega-III-1}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0a30598b0fb52d15a9ed0914eae20176}{%
+           family={Dieudonné},
+           familyi={D\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fb0e3184fdd2fcd28fa74ca67d7cdcc1}{%
+           family={Grothendieck},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {french}%
+      }
+      \list{publisher}{1}{%
+        {Publications Mathématiques de l'IHÉS}%
+      }
+      \strng{namehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{fullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{bibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorbibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authornamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorfullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \field{extraname}{3}
+      \field{labelalpha}{EGA III\textsubscript{1}}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{11}
+      \field{shorthand}{EGA III\textsubscript{1}}
+      \field{title}{Éléments de géométrie algébrique: III. Étude cohomologique des faisceaux cohérents, Première partie}
+      \field{year}{1961}
+      \true{nocite}
+      \field{pages}{5\bibrangedash 167}
+      \range{pages}{163}
+    \endentry
+    \entry{ega-III-2}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0a30598b0fb52d15a9ed0914eae20176}{%
+           family={Dieudonné},
+           familyi={D\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fb0e3184fdd2fcd28fa74ca67d7cdcc1}{%
+           family={Grothendieck},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {french}%
+      }
+      \list{publisher}{1}{%
+        {Publications Mathématiques de l'IHÉS}%
+      }
+      \strng{namehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{fullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{bibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorbibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authornamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorfullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \field{extraname}{4}
+      \field{labelalpha}{EGA III\textsubscript{2}}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{17}
+      \field{shorthand}{EGA III\textsubscript{2}}
+      \field{title}{Éléments de géométrie algébrique: III. Étude cohomologique des faisceaux cohérents, Deuxième partie}
+      \field{year}{1963}
+      \true{nocite}
+      \field{pages}{5\bibrangedash 91}
+      \range{pages}{87}
+    \endentry
+    \entry{ega-IV-1}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0a30598b0fb52d15a9ed0914eae20176}{%
+           family={Dieudonné},
+           familyi={D\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fb0e3184fdd2fcd28fa74ca67d7cdcc1}{%
+           family={Grothendieck},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {french}%
+      }
+      \list{publisher}{1}{%
+        {Publications Mathématiques de l'IHÉS}%
+      }
+      \strng{namehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{fullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{bibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorbibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authornamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorfullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \field{extraname}{5}
+      \field{labelalpha}{EGA IV\textsubscript{1}}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{20}
+      \field{shorthand}{EGA IV\textsubscript{1}}
+      \field{title}{Éléments de géométrie algébrique: IV. Étude locale des schémas et des morphismes de schémas, Première partie}
+      \field{year}{1964}
+      \true{nocite}
+      \field{pages}{5\bibrangedash 259}
+      \range{pages}{255}
+    \endentry
+    \entry{ega-IV-2}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0a30598b0fb52d15a9ed0914eae20176}{%
+           family={Dieudonné},
+           familyi={D\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fb0e3184fdd2fcd28fa74ca67d7cdcc1}{%
+           family={Grothendieck},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {french}%
+      }
+      \list{publisher}{1}{%
+        {Publications Mathématiques de l'IHÉS}%
+      }
+      \strng{namehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{fullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{bibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorbibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authornamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorfullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \field{extraname}{6}
+      \field{labelalpha}{EGA IV\textsubscript{2}}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{24}
+      \field{shorthand}{EGA IV\textsubscript{2}}
+      \field{title}{Éléments de géométrie algébrique: IV. Étude locale des schémas et des morphismes de schémas, Deuxième partie}
+      \field{year}{1965}
+      \true{nocite}
+      \field{pages}{5\bibrangedash 231}
+      \range{pages}{227}
+    \endentry
+    \entry{ega-IV-3}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0a30598b0fb52d15a9ed0914eae20176}{%
+           family={Dieudonné},
+           familyi={D\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fb0e3184fdd2fcd28fa74ca67d7cdcc1}{%
+           family={Grothendieck},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {french}%
+      }
+      \list{publisher}{1}{%
+        {Publications Mathématiques de l'IHÉS}%
+      }
+      \strng{namehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{fullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{bibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorbibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authornamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorfullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \field{extraname}{7}
+      \field{labelalpha}{EGA IV\textsubscript{3}}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{28}
+      \field{shorthand}{EGA IV\textsubscript{3}}
+      \field{title}{Éléments de géométrie algébrique: IV. Étude locale des schémas et des morphismes de schémas, Troisième partie}
+      \field{year}{1966}
+      \true{nocite}
+      \field{pages}{5\bibrangedash 255}
+      \range{pages}{251}
+    \endentry
+    \entry{ega-IV-4}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0a30598b0fb52d15a9ed0914eae20176}{%
+           family={Dieudonné},
+           familyi={D\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fb0e3184fdd2fcd28fa74ca67d7cdcc1}{%
+           family={Grothendieck},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {french}%
+      }
+      \list{publisher}{1}{%
+        {Publications Mathématiques de l'IHÉS}%
+      }
+      \strng{namehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{fullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{bibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorbibnamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authornamehash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \strng{authorfullhash}{43bfbdab8ef723ef8f9aa4aaffc8a71b}
+      \field{extraname}{8}
+      \field{labelalpha}{EGA IV\textsubscript{4}}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{32}
+      \field{shorthand}{EGA IV\textsubscript{4}}
+      \field{title}{Éléments de géométrie algébrique: IV. Étude locale des schémas et des morphismes de schémas, Quatrième partie}
+      \field{year}{1967}
+      \true{nocite}
+      \field{pages}{5\bibrangedash 361}
+      \range{pages}{357}
+    \endentry
+    \entry{stacks}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f36fd29b1453c1215c83cf8092c53b83}{%
+           family={Jong},
+           familyi={J\bibinitperiod},
+           given={Aise\bibnamedelima Johan},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{f36fd29b1453c1215c83cf8092c53b83}
+      \strng{fullhash}{f36fd29b1453c1215c83cf8092c53b83}
+      \strng{bibnamehash}{f36fd29b1453c1215c83cf8092c53b83}
+      \strng{authorbibnamehash}{f36fd29b1453c1215c83cf8092c53b83}
+      \strng{authornamehash}{f36fd29b1453c1215c83cf8092c53b83}
+      \strng{authorfullhash}{f36fd29b1453c1215c83cf8092c53b83}
+      \field{labelalpha}{Stacks}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{shorthand}{Stacks}
+      \field{title}{The Stacks Project}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb http://stacks.math.columbia.edu
+      \endverb
+      \verb{url}
+      \verb http://stacks.math.columbia.edu
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
